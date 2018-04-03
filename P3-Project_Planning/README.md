@@ -10,8 +10,8 @@ For this assignment, you'll create some initial plans for your project.
 * Home Page ![Home Page](/Images/Home Page.jpg)
 * User Page ![User Page](/Images/User Page.jpg)
 * Sign In ![Sign In](/Images/Sign In Page.jpg)
-* Sign Up ![Sign Up](/Images/Sign Up Page.jpg)
-* Add Yarn ![Add Yarn](/Images/Add Yarn Page.jpg)
+* Sign Up ![Sign Up](./Images/Sign Up Page.jpg)
+* Add Yarn ![Add Yarn](liftoff-assignments/P3-Project_Planning/Images/Add Yarn Page.jpg)
 * Complete Project ![Complete Project](/Images/Complete Project Page.jpg)
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
