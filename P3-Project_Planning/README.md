@@ -10,19 +10,19 @@ For this assignment, you'll create some initial plans for your project.
 * Home Page 
 ![Home Page](/P3-Project_Planning/Images/Home_Page.jpg)
 * User Page 
-![User Page](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/User_Page.jpg)
+![User Page](/P3-Project_Planning/Images/User_Page.jpg)
 * Sign In 
-![Sign In](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/Sign In Page.jpg)
+![Sign In](/P3-Project_Planning/Images/Sign In Page.jpg)
 * Sign Up 
-![Sign Up](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/Sign Up Page.jpg)
+![Sign Up](/P3-Project_Planning/Images/Sign Up Page.jpg)
 * Add Yarn 
-![Add Yarn](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/Add Yarn Page.jpg)
+![Add Yarn](/P3-Project_Planning/Images/Add Yarn Page.jpg)
 * Complete Project 
-![Complete Project](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/Complete Project Page.jpg)
+![Complete Project](/P3-Project_Planning/Images/Complete Project Page.jpg)
 
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
-![Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2158571)
+[Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2158571)
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
