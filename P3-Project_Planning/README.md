@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 * Home Page 
-![Home Page](/Images/Home_Page.jpg)
+![Home Page](/P3-Project_Planning/Images/Home_Page.jpg)
 * User Page 
 ![User Page](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/User_Page.jpg)
 * Sign In 
