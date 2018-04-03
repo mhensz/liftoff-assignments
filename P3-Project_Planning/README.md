@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 * Home Page 
-![Home Page](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/Home Page.jpg)
+![Home Page](/Images/Home_Page.jpg)
 * User Page 
-![User Page](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/User Page.jpg)
+![User Page](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/User_Page.jpg)
 * Sign In 
 ![Sign In](https://github.com/mhensz/liftoff-assignments/P3-Project_Planning/Images/Sign In Page.jpg)
 * Sign Up 
@@ -23,5 +23,6 @@ For this assignment, you'll create some initial plans for your project.
 (Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
 
 ### Project Tracker
+![Pivotal Tracker](https://www.pivotaltracker.com/n/projects/2158571)
 
 (Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
